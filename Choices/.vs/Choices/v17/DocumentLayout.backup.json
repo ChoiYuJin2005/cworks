@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\cworks\\Choices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\Seat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|solutionrelative:Choices\\Seat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB7B0D2-327E-4728-BA13-2D10E699BE0F}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\IfEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -65,32 +69,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Seat.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\Seat.c",
+              "RelativeDocumentMoniker": "Choices\\Seat.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\Seat.c*",
+              "RelativeToolTip": "Choices\\Seat.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T10:10:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SwitchEx2.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\SwitchEx2.c",
               "RelativeDocumentMoniker": "Choices\\SwitchEx2.c",
-              "ToolTip": "C:\\cworks\\Choices\\Choices\\SwitchEx2.c*",
-              "RelativeToolTip": "Choices\\SwitchEx2.c*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\SwitchEx2.c",
+              "RelativeToolTip": "Choices\\SwitchEx2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwCUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-22T12:41:50.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SwitchEx1.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\SwitchEx1.c",
               "RelativeDocumentMoniker": "Choices\\SwitchEx1.c",
-              "ToolTip": "C:\\cworks\\Choices\\Choices\\SwitchEx1.c*",
-              "RelativeToolTip": "Choices\\SwitchEx1.c*",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\SwitchEx1.c",
+              "RelativeToolTip": "Choices\\SwitchEx1.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAxwB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T12:33:26.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T12:33:26.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CoffeeMachine.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\CoffeeMachine.c",
               "RelativeDocumentMoniker": "Choices\\CoffeeMachine.c",
@@ -98,12 +114,11 @@
               "RelativeToolTip": "Choices\\CoffeeMachine.c",
               "ViewState": "AgIAABIAAAAAAAAAAAAgwCkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T12:01:39.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T12:01:39.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WhileBreak.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\WhileBreak.c",
               "RelativeDocumentMoniker": "Choices\\WhileBreak.c",
@@ -111,12 +126,11 @@
               "RelativeToolTip": "Choices\\WhileBreak.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T11:55:05.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:55:05.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IfElseIf.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfElseIf.c",
               "RelativeDocumentMoniker": "Choices\\IfElseIf.c",
@@ -124,12 +138,11 @@
               "RelativeToolTip": "Choices\\IfElseIf.c",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T11:03:25.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:03:25.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LeafYear.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\LeafYear.c",
               "RelativeDocumentMoniker": "Choices\\LeafYear.c",
@@ -137,12 +150,11 @@
               "RelativeToolTip": "Choices\\LeafYear.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAxwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T10:37:02.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T10:37:02.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IfEx2.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfEx2.c",
               "RelativeDocumentMoniker": "Choices\\IfEx2.c",
@@ -150,12 +162,11 @@
               "RelativeToolTip": "Choices\\IfEx2.c",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T10:24:23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T10:24:23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IfEx.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfEx.c",
               "RelativeDocumentMoniker": "Choices\\IfEx.c",
