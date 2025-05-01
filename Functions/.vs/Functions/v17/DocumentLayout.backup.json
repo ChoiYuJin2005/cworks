@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|solutionrelative:Functions\\FindMax.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|solutionrelative:Functions\\SayHello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F474C6D5-0373-4A1B-BCCB-B73903DFA19A}|Functions\\Functions.vcxproj|solutionrelative:Functions\\ReturnFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindMax.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\FindMax.c",
+              "RelativeDocumentMoniker": "Functions\\FindMax.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\FindMax.c",
+              "RelativeToolTip": "Functions\\FindMax.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:42:58.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnFunction.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\ReturnFunction.c",
+              "RelativeDocumentMoniker": "Functions\\ReturnFunction.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\ReturnFunction.c",
+              "RelativeToolTip": "Functions\\ReturnFunction.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:25:27.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayHello.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\SayHello.c",
+              "RelativeDocumentMoniker": "Functions\\SayHello.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\SayHello.c",
+              "RelativeToolTip": "Functions\\SayHello.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T12:09:55.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
