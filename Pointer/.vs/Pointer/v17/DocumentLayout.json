@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\calc Sum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\calc Sum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\Swat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Swat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Test.c",
+              "RelativeDocumentMoniker": "Pointer\\Test.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\Test.c",
+              "RelativeToolTip": "Pointer\\Test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:49:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Swat.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Swat.c",
+              "RelativeDocumentMoniker": "Pointer\\Swat.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\Swat.c",
+              "RelativeToolTip": "Pointer\\Swat.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:31:46.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calc Sum.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\calc Sum.c",
+              "RelativeDocumentMoniker": "Pointer\\calc Sum.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\calc Sum.c",
+              "RelativeToolTip": "Pointer\\calc Sum.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:17:01.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

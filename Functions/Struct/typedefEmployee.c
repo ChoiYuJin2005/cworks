@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+typedef struct {
+	int id;         //사원 아이디
+	char name[20];  //사원 이름
+	int salary;     // 급여
+}Employee;
+
+int main()
+{
+	//struct 없이 구조체 변수 선언
+	/*Employee e1 = { 1, "이사원", 3000000 };
+
+	printf("사원 ID: %d\n", el.id);
+	printf("이름: %d\n", el.name);
+	printf("급여: %d\n", el.salaty);*/
+
+	//구조체 배열 3명 생성
+	Employee e[3] = {
+		{ 1, "이사원", 3000000 },
+		{ 2, "이사이", 4000000 },
+		{ 3, "이사삼", 5000000 }
+	};
+	int i;
+
+	//전체 출력
+	for (i = 0; i < 3; i++)
+	{
+		printf("사원 ID: %d, 이름: %s, 급여: %d\n",
+			e[i].id, e[i].name, e[i].salary);
+	}
+
+	return 0;
+}

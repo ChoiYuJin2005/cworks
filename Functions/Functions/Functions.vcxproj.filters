@@ -24,5 +24,11 @@
     <ClCompile Include="FindMax.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Math 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="String Functions.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
