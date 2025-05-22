@@ -21,10 +21,19 @@
     <ClCompile Include="Struction Raper.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Typedef Inploint.cpp">
+    <ClCompile Include="typedefEmployee.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="typedefEmployee.c">
+    <ClCompile Include="Hero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcScore.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Fruit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Datetime.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

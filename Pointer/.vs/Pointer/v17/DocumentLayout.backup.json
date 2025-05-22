@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\LendCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\LendCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\FindMathIdx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\FindMathIdx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\FindMath.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\FindMath.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\calc Sum 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\calc Sum 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3CADF206-886E-4D9B-B95D-9CB6C3C973DC}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,6 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LendCoin.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\LendCoin.c",
+              "RelativeDocumentMoniker": "Pointer\\LendCoin.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\LendCoin.c*",
+              "RelativeToolTip": "Pointer\\LendCoin.c*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T11:07:19.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindMathIdx.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\FindMathIdx.c",
+              "RelativeDocumentMoniker": "Pointer\\FindMathIdx.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\FindMathIdx.c",
+              "RelativeToolTip": "Pointer\\FindMathIdx.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:44:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindMath.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\FindMath.c",
+              "RelativeDocumentMoniker": "Pointer\\FindMath.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\FindMath.c",
+              "RelativeToolTip": "Pointer\\FindMath.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:26:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calc Sum 2.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\calc Sum 2.c",
+              "RelativeDocumentMoniker": "Pointer\\calc Sum 2.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\calc Sum 2.c",
+              "RelativeToolTip": "Pointer\\calc Sum 2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T10:06:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Test.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Test.c",
               "RelativeDocumentMoniker": "Pointer\\Test.c",
@@ -39,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Swat.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Swat.c",
               "RelativeDocumentMoniker": "Pointer\\Swat.c",
@@ -51,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "calc Sum.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\calc Sum.c",
               "RelativeDocumentMoniker": "Pointer\\calc Sum.c",
